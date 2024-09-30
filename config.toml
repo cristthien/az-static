@@ -1,7 +1,7 @@
 baseURL = "https://ashy-rock-0d65ef90f.4.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Rainaldi.dev"
-theme = "tophat"
+theme = "paper"
 paginate = 5
 
 [params]
